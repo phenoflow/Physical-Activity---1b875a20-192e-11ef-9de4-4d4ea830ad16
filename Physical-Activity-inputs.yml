@@ -1,0 +1,30 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/inactive-physical-activity---primary.py
+inputModule3:
+  class: File
+  path: python/physical-activity-exercise---primary.py
+inputModule4:
+  class: File
+  path: python/moderate-physical-activity---primary.py
+inputModule5:
+  class: File
+  path: python/physical-activity-enjoys---primary.py
+inputModule6:
+  class: File
+  path: python/anaerobic-physical-activity---primary.py
+inputModule7:
+  class: File
+  path: python/physical-activity-level---primary.py
+inputModule8:
+  class: File
+  path: python/physical-activity---primary.py
+inputModule9:
+  class: File
+  path: python/physical-activity-physc---primary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
